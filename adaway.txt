@@ -187,6 +187,7 @@ jump.bdimg.com,tieba.baidu.com,tieba.com##[id^="spreadad_"]
 jump.bdimg.com,tieba.baidu.com,tieba.com##div[data-daid]
 jump.bdimg.com,tieba.baidu.com,tieba.com##div[id*="lottery"]
 jump.bdimg.com,tieba.baidu.com,tieba.com##li[data-daid]
-! 2015/12/20 更新
+! 2015/12/20 更新:屏蔽了超级会员充值的提示
 tieba.baidu.com###celebrity
 tieba.baidu.com##.region_bright.celebrity
+tieba.baidu.com##.aside_region.celebrity
