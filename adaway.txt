@@ -1,8 +1,8 @@
 [Adblock]
 ! Title: Baidu Tieba ADAway
-! Last Update: 2015/12/20 13:59
+! Last Update: 2015/01/01 19:59
 ! E-Mail: admin@iamwb.me
-! Version: 2.4 Beta 1
+! Version: 2.4 Beta 2
 ! 主要针对百度贴吧的各种广告，个人自用规则
 @@*/tb/_/repost_*.js
 @@*/tb/_/upload_*.js
@@ -191,3 +191,8 @@ jump.bdimg.com,tieba.baidu.com,tieba.com##li[data-daid]
 tieba.baidu.com###celebrity
 tieba.baidu.com##.region_bright.celebrity
 tieba.baidu.com##.aside_region.celebrity
+! 2016/01/01 更新:屏蔽了美女直播
+tieba.baidu.com###spage_liveshow_slide
+tieba.baidu.com##.edui-btn.edui-btn-paypost.edui-btn-name-portrait.hover
+tieba.baidu.com##.edui-icon-paypost.edui-icon
+tieba.baidu.com##.spage_liveshow_slide.clearfix
