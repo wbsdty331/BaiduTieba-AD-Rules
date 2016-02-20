@@ -91,6 +91,10 @@ tieba.baidu.com##.sub_feature.sub_feature_1
 tieba.baidu.com##.sub_feature.sub_feature_2
 tieba.baidu.com###global_notice_wrap
 tieba.baidu.com##.profile_right.user_tbmall
+tieba.baidu.com###celebrity
+tieba.baidu.com##.m24bf1621c.clearfix
+tieba.baidu.com##.region_bright.celebrity
+tieba.baidu.com##.post-foot-send-gift-btn.j-post-send-gift
 !官方抽奖
 tieba.baidu.com###plat_act_wrapper
 tieba.baidu.com##.platact_bigouter
@@ -99,6 +103,7 @@ tieba.baidu.com##.platact_bigouter
 ||wanba.baidu.com
 ||xiu8.com
 ||youxi.baidu.com
+||tb1.bdstatic.com/tb/cms/ngmis/adsense/file_1453887105937.jpg
 ||tieba.baidu.com/tb/static-comforum/img/history_game/*
 ||tieba.baidu.com/tb/cms/game_rank/*
 ||tieba.baidu.com/f/urlcheck?*
